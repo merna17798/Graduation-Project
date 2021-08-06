@@ -1,0 +1,17 @@
+max30100.c:24:6:MAX30100_Init	16	static
+max30100.c:33:9:MAX30100_ReadReg	32	static
+max30100.c:40:6:MAX30100_WriteReg	32	static
+max30100.c:45:6:MAX30100_EnableInterrupt	32	static
+max30100.c:50:6:MAX30100_InterruptHandler	16	static
+max30100.c:69:6:MAX30100_SetMode	24	static
+max30100.c:85:6:MAX30100_SetSpO2SampleRate	24	static
+max30100.c:91:6:MAX30100_SetLEDPulseWidth	24	static
+max30100.c:96:6:MAX30100_SetLEDCurrent	16	static
+max30100.c:102:6:MAX30100_ClearFIFO	8	static
+max30100.c:108:6:MAX30100_ReadFIFO	88	static
+max30100.c:123:7:MAX30100_ReadTemperature	24	static
+max30100.c:129:6:MAX30100_PlotIrToUART	32	static
+max30100.c:138:6:MAX30100_PlotBothToUART	48	static
+max30100.c:157:6:MAX30100_Stop	8	static
+max30100.c:163:6:MAX30100_Pause	8	static
+max30100.c:171:6:MAX30100_Resume	8	static
